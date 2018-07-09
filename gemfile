@@ -1,1 +1,2 @@
 gem 's3_website'
+source 'https://rubygems.org'
